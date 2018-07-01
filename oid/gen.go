@@ -12,7 +12,7 @@ import (
 	"os/exec"
 	"strings"
 
-	_ "github.com/lib/pq"
+	_ "github.com/tridentli/libpq_4_trident"
 )
 
 // OID represent a postgres Object Identifier Type.
